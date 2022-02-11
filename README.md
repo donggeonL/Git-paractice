@@ -1,4 +1,4 @@
-# Git Push Guide
+# Git Push Guide (First Push)
  > git init </br>
  > git add . </br>
  > git commit -m " ~ " </br>
