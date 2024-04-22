@@ -1,0 +1,2 @@
+const API_KEY = "test_e50cae223674313f9744d9dfc19d9eae8a046024676e8f24026aa83aa29301bdd05f81f3b771063ff850b1cddbc0f31a"
+export default API_KEY;
